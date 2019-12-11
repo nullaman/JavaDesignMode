@@ -8,3 +8,4 @@ Java设计模式，不同分支对应不同模式
 ### decorator 装饰器模式
 ### proxy 代理模式
 ### methodFactory 工厂方法模式
+### prototype 原型模式
